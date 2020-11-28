@@ -25,5 +25,6 @@
 	- [ ] IP range specification
     - [ ] Metasploit module?
     - [ ] Port to PowerShell?
+    - [ ] Maintain list of which host+proto+pass was tried, with timestamps
 * Miscellaneous
     - [ ] Generate requirements.txt
